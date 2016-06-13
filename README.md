@@ -1,1 +1,3 @@
 # LC
+
+LeetCode coding zone
